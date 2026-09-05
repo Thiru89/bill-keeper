@@ -1,0 +1,242 @@
+[
+  {
+    "id": "bill-seed-1",
+    "merchant": "Whole Foods Market",
+    "date": "2026-09-03",
+    "totalAmount": 84.75,
+    "currency": "$",
+    "taxAmount": 6.25,
+    "category": "Groceries",
+    "paymentMethod": "Visa Card ****4821",
+    "confidenceScore": 98,
+    "lineItems": [
+      {
+        "description": "Organic Almond Milk 64oz",
+        "quantity": 2,
+        "unitPrice": 4.49,
+        "total": 8.98
+      },
+      {
+        "description": "Organic Baby Spinach 16oz",
+        "quantity": 1,
+        "unitPrice": 5.99,
+        "total": 5.99
+      },
+      {
+        "description": "Wild Alaskan Salmon Fillet",
+        "quantity": 1.4,
+        "unitPrice": 18.99,
+        "total": 26.59
+      },
+      {
+        "description": "Fresh Hass Avocados 4-pk",
+        "quantity": 1,
+        "unitPrice": 4.99,
+        "total": 4.99
+      },
+      {
+        "description": "Artisan Sourdough Loaf",
+        "quantity": 1,
+        "unitPrice": 6.49,
+        "total": 6.49
+      },
+      {
+        "description": "Honeycrisp Apples 3lb",
+        "quantity": 1,
+        "unitPrice": 7.99,
+        "total": 7.99
+      },
+      {
+        "description": "Greek Yogurt Plain 32oz",
+        "quantity": 2,
+        "unitPrice": 5.25,
+        "total": 10.5
+      }
+    ],
+    "notes": "Weekly grocery restock #WF-89104",
+    "rawText": "WHOLE FOODS MARKET - STORE #1042\nRECEIPT #WF-89104\nTOTAL: $84.75\nTAX: $6.25\nAUTH: APPROVED",
+    "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800&auto=format&fit=crop&q=80",
+    "status": "synced",
+    "createdAt": "2026-09-03T13:41:12.413Z",
+    "updatedAt": "2026-09-03T13:41:12.413Z"
+  },
+  {
+    "id": "bill-seed-2",
+    "merchant": "Pacific Gas & Electric (PG&E)",
+    "date": "2026-08-30",
+    "totalAmount": 142.3,
+    "currency": "$",
+    "taxAmount": 8.5,
+    "category": "Utilities & Bills",
+    "paymentMethod": "Bank AutoPay",
+    "confidenceScore": 96,
+    "lineItems": [
+      {
+        "description": "Electric Service (Tier 1 & 2 kWh)",
+        "quantity": 1,
+        "unitPrice": 94.8,
+        "total": 94.8
+      },
+      {
+        "description": "Natural Gas Delivery & Procurement",
+        "quantity": 1,
+        "unitPrice": 39,
+        "total": 39
+      },
+      {
+        "description": "City Utility Tax & Mandated Fees",
+        "quantity": 1,
+        "unitPrice": 8.5,
+        "total": 8.5
+      }
+    ],
+    "notes": "Monthly residential utility statement - Acct #984210",
+    "rawText": "PACIFIC GAS & ELECTRIC\nACCOUNT: 984210-9\nSTATEMENT BALANCE: $142.30\nDUE DATE: RECENT\nSTATUS: PAID",
+    "imageUrl": "",
+    "status": "synced",
+    "createdAt": "2026-08-30T13:41:12.413Z",
+    "updatedAt": "2026-08-30T13:41:12.413Z"
+  },
+  {
+    "id": "bill-seed-3",
+    "merchant": "Osteria Del Vino",
+    "date": "2026-08-26",
+    "totalAmount": 118.5,
+    "currency": "$",
+    "taxAmount": 11.2,
+    "category": "Dining & Food",
+    "paymentMethod": "MasterCard ****1190",
+    "confidenceScore": 97,
+    "lineItems": [
+      {
+        "description": "Truffle Tagliolini Pasta",
+        "quantity": 2,
+        "unitPrice": 28,
+        "total": 56
+      },
+      {
+        "description": "Burrata Pugliese Antipasto",
+        "quantity": 1,
+        "unitPrice": 19,
+        "total": 19
+      },
+      {
+        "description": "Chianti Classico Glass",
+        "quantity": 2,
+        "unitPrice": 14,
+        "total": 28
+      },
+      {
+        "description": "Classic Tiramisu",
+        "quantity": 1,
+        "unitPrice": 12,
+        "total": 12
+      }
+    ],
+    "notes": "Team dinner celebration",
+    "rawText": "OSTERIA DEL VINO\nTABLE 04 - GUESTS 2\nSUBTOTAL: $115.00\nTAX: $11.20\nTOTAL: $118.50",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop&q=80",
+    "status": "synced",
+    "createdAt": "2026-08-26T13:41:12.413Z",
+    "updatedAt": "2026-08-26T13:41:12.413Z"
+  },
+  {
+    "id": "bill-seed-4",
+    "merchant": "Best Buy Electronics",
+    "date": "2026-08-18",
+    "totalAmount": 239.99,
+    "currency": "$",
+    "taxAmount": 19.8,
+    "category": "Office & Business",
+    "paymentMethod": "Apple Pay",
+    "confidenceScore": 99,
+    "lineItems": [
+      {
+        "description": "Logitech MX Master 3S Mouse",
+        "quantity": 1,
+        "unitPrice": 99.99,
+        "total": 99.99
+      },
+      {
+        "description": "USB-C Thunderbolt 4 Docking Station",
+        "quantity": 1,
+        "unitPrice": 119.99,
+        "total": 119.99
+      },
+      {
+        "description": "High-Speed HDMI 2.1 Braided Cable",
+        "quantity": 1,
+        "unitPrice": 20.01,
+        "total": 20.01
+      }
+    ],
+    "notes": "Remote workstation accessories",
+    "rawText": "BEST BUY #481\nVALUED CUSTOMER RECEIPT\nTOTAL SALE: $239.99\nTAX: $19.80",
+    "imageUrl": "",
+    "status": "synced",
+    "createdAt": "2026-08-18T13:41:12.413Z",
+    "updatedAt": "2026-08-18T13:41:12.413Z"
+  },
+  {
+    "id": "bill-seed-5",
+    "merchant": "Chevron Gas Station",
+    "date": "2026-08-11",
+    "totalAmount": 56.4,
+    "currency": "$",
+    "taxAmount": 4.8,
+    "category": "Travel & Transport",
+    "paymentMethod": "Debit Card ****3019",
+    "confidenceScore": 95,
+    "lineItems": [
+      {
+        "description": "Techron Unleaded Plus Fuel 12.5 gal",
+        "quantity": 12.5,
+        "unitPrice": 4.512,
+        "total": 56.4
+      }
+    ],
+    "notes": "Commute refuel",
+    "rawText": "CHEVRON 208492\nPUMP 06 UNLEADED PLUS\n12.500 GAL @ $4.512/GAL\nTOTAL = $56.40",
+    "imageUrl": "",
+    "status": "synced",
+    "createdAt": "2026-08-11T13:41:12.413Z",
+    "updatedAt": "2026-08-11T13:41:12.413Z"
+  },
+  {
+    "id": "bill-seed-6",
+    "merchant": "CVS Pharmacy",
+    "date": "2026-08-04",
+    "totalAmount": 34.2,
+    "currency": "$",
+    "taxAmount": 2.1,
+    "category": "Healthcare",
+    "paymentMethod": "FSA / HSA Card",
+    "confidenceScore": 94,
+    "lineItems": [
+      {
+        "description": "Daily Vitamin C & Zinc Immune 120ct",
+        "quantity": 1,
+        "unitPrice": 14.99,
+        "total": 14.99
+      },
+      {
+        "description": "Electrolyte Hydration Packets 16ct",
+        "quantity": 1,
+        "unitPrice": 12.99,
+        "total": 12.99
+      },
+      {
+        "description": "Antiseptic First Aid Bandages",
+        "quantity": 1,
+        "unitPrice": 6.22,
+        "total": 6.22
+      }
+    ],
+    "notes": "Health essentials replenishment",
+    "rawText": "CVS/PHARMACY #9382\nEXTRA-CARE CARD DETECTED\nTOTAL: $34.20\nTAX: $2.10",
+    "imageUrl": "",
+    "status": "synced",
+    "createdAt": "2026-08-04T13:41:12.413Z",
+    "updatedAt": "2026-08-04T13:41:12.413Z"
+  }
+]

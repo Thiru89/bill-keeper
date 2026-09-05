@@ -1,0 +1,10 @@
+{
+  "name": "BillKeeper OCR",
+  "description": "Smart bill bookkeeping app with AI OCR receipt scanning, cloud sync, offline mode, spending dashboard, and biometric security.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
